@@ -1,5 +1,7 @@
 # BitmapFileSystemOnLinux
-Linux系統上基於Bitmap的檔案管理系统
+Linux系統上基於Bitmap的檔案管理系统  
+這是一個在 Linux 作業系統上實現的簡易檔案系統，核心使用 位元圖（Bitmap） 來管理磁碟區塊的分配。  
+
 ## 題目要求
 在Linux操作系统上，简单地实现一个基于位示图的文件系统  
 1. 为了方便文件系统的编写和测试，最好在VMWare虚拟机上实现。
